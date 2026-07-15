@@ -25,13 +25,13 @@ Computer Science Student at SSN College of Engineering
 
 ## 📊 GitHub Stats
 
-![Sudharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Sudharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)
 
 ---
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/Sudharsan-2006-prog)
 
 ---
 
