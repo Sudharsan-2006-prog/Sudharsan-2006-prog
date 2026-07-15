@@ -25,20 +25,20 @@ Computer Science Student at SSN College of Engineering
 
 ## 📊 GitHub Stats
 
-![Sudharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)
+![Sudharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudharsan-2006-prog&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/Sudharsan-2006-prog)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sudharsan-2006-prog&theme=github-dark)
 
 ---
 
 ## 🌐 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- LeetCode: https://leetcode.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/sudharsan-baskar-215113325/
+- LeetCode: https://leetcode.com/u/Sudharsan_baskar/
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,react,ts,spring,postgres,mongodb,git,github,vscode"/>
