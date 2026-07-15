@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sudharsan</h1>
+<h1 align="center">
+  Hi 👋, I'm Sudharsan
+</h1>
 
-<h3 align="center">
-Computer Science Student at SSN College of Engineering
-</h3>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;AI+%7C+Full+Stack+Developer;Building+Virtual+Stock+Trading+Platform" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -40,6 +43,4 @@ Computer Science Student at SSN College of Engineering
 - LinkedIn: https://www.linkedin.com/in/sudharsan-baskar-215113325/
 - LeetCode: https://leetcode.com/u/Sudharsan_baskar/
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,react,ts,spring,postgres,mongodb,git,github,vscode"/>
-</p>
+
