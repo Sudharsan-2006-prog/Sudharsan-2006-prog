@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sudharsan</h1>
 
-<!--
-**Sudharsan-2006-prog/Sudharsan-2006-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student at SSN College of Engineering
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.E. Computer Science @ SSN College of Engineering
+- 💻 Interested in Software Engineering, AI & Data Science
+- 🌱 Currently learning React, Spring Boot and PostgreSQL
+- 🚀 Building a Virtual Stock Trading Platform
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,react,ts,js,html,css,tailwind,spring,postgres,mongodb,git,github,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Sudharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- LeetCode: https://leetcode.com/yourusername
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,react,ts,spring,postgres,mongodb,git,github,vscode"/>
+</p>
